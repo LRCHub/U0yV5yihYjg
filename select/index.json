@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "euclase",
+  "base_artist": "garnet",
+  "createdAt": "2026-02-25T11:01:00.264107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Euclase",
+      "artist": "Tears of Tragedy",
+      "has_synced": true,
+      "path": "select/01_Euclase_Tears_of_Tragedy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Euclase",
+      "artist": "Tears of Tragedy",
+      "has_synced": true,
+      "path": "select/02_Euclase_Tears_of_Tragedy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "euclase",
+      "artist": "garnet",
+      "has_synced": false,
+      "path": "select/pl_01_euclase_garnet.txt"
+    }
+  ]
+}
